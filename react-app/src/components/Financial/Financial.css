@@ -1,0 +1,14 @@
+.utility-bill-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.section-container {
+    padding: 10px;
+}
+
+.subNav {
+    display: flex;
+    gap: 50px;
+}

@@ -1,0 +1,8 @@
+.checkBoxInput {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    width: auto;
+}
